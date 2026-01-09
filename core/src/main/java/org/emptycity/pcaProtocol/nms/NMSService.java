@@ -97,6 +97,7 @@ public class NMSService {
         put("1.21.8", "v1_21_7");
         put("1.21.9", "v1_21_9");
         put("1.21.10", "v1_21_9");
+        put("1.21.11", "v1_21_11");
     }};
 
     private static String serverVersion;
